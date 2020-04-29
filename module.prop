@@ -1,7 +1,6 @@
 id=op7boost
-name=OnePlus 7 Volume Boost Mod
-version=v1
-versionCode=1
+name=Oneplus 7 Volume Booster Mod
+version=v2
+versionCode=2
 author=acervenky
-description=Increased gain of stereo speakers & headphones
-minMagisk=1500
+description=Increase the headphone & speaker gain
